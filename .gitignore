@@ -16,7 +16,8 @@ venv/
 !.env.example
 
 # Datasets and generated artifacts
-data/*
+data/**
+!data/**/
 !data/**/.gitkeep
 artifacts/
 mlruns/

@@ -1,4 +1,3 @@
-# tests/unit/test_smoke.py
 import credit_risk
 
 
